@@ -1,6 +1,6 @@
 @echo off
 echo EDGE DELETER
 pause
-del edge.exe
+del msedge.exe
 echo Deleted Edge
 pause
