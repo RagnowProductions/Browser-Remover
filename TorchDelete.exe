@@ -1,0 +1,4 @@
+@echo off
+pause
+del torch.exe
+echo Succesfully Deleted Torch Browser
