@@ -2,5 +2,5 @@
 echo IE DELETER
 pause
 del iexplore.exe
-Deleted Internet Explorer
+echo Deleted Internet Explorer
 pause
