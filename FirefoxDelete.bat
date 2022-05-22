@@ -2,4 +2,5 @@
 echo FIREFOX DELETER
 pause
 del firefox.exe
-Deleted Firefox
+echo Deleted Firefox
+pause
